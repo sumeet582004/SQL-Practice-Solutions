@@ -1,14 +1,12 @@
 # SQL-Practice-Solutions
+# SQL-Practice-Solutions
 
-This repository contains my step-by-step solutions for the beginner-level SQL challenges from [SQL-Practice.com](https://www.sql-practice.com/). The goal is to build strong foundational skills in SQL queries.
+This repository contains my daily progress and solutions for the SQL challenges from [SQL-Practice.com](https://www.sql-practice.com/).
 
 ---
 
-## 📅 Day 1: 9 Easy Category Questions
+## 📅 Challenge Roadmap & Progress
 
-### 1. Patient Gender
-**Question:** Show first name, last name, and gender of patients whose gender is 'M'.
-```sql
-SELECT first_name, last_name, gender 
-FROM patients 
-WHERE gender = 'M';
+- [x] **Day 1: 9 Easy Questions** 🎯 -> [View Day 1 Solutions](./Day_01_Easy.sql)
+- [ ] Day 2: Next Batch of Easy Questions ⏳
+- [ ] Day 3: Medium Category Entry ⏳
