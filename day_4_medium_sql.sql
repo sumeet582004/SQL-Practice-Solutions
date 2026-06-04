@@ -1,7 +1,7 @@
--- ====================================================================
--- File Name: day_4_medium_sql.sql
--- Description: SQL Practice Questions & Solutions (Questions 24 to 34)
--- ====================================================================
+/*
+  SQL Practice Questions & Solutions (24 - 34)
+  Database: Hospital
+*/
 
 -- QUESTION 24: Show unique birth years from patients and order them ascending.
 SELECT DISTINCT
