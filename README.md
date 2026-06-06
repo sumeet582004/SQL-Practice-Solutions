@@ -13,6 +13,6 @@ This repository contains my daily progress and solutions for the SQL challenges 
 | *Day 3* | medium Category Completion | 7 | 🎯 Done | [View Solutions](Day3.sql) |
 | Day 4 | Medium Category Entry | 11 | ✅ Done | [View Solutions](https://github.com/sumeet582004/SQL-Practice-Questions-and-Solutions/blob/main/day_4_medium_sql.sql) |
 | *Day 5* | Medium Category Practice | 12 | 🎯 Done | [View Solutions](./day_5_medium_sql_practice.sql) |
-| **Day 6** | Advanced Medium Questions | - | ⏳ Pending | *Coming Soon* |
+| *Day 6* | Advanced Medium & Hard (Hospital DB) | 10 | ✅ Done | [View Solutions](./Day06_SQL_Hospital_Practice.sql) |
 | **Day 7** | Hard Category Entry | - | ⏳ Pending | *Coming Soon* |
 | **Day 8** | Hard Category & Review | - | ⏳ Pending | *Coming Soon* |
