@@ -15,4 +15,4 @@ This repository contains my daily progress and solutions for the SQL challenges 
 | Day 5 | Medium Category Practice | 12 | 🎯 Done | [View Solutions](./Day05_Medium.sql) |
 | Day 6 | Advanced Medium & Hard (Hospital DB) | 10 | ✅ Done | [View Solutions](./Day06_Medium.sql) |
 | Day 7 | Hard Category Entry | 10 | 🎯 Done | [View Solutions](./Day07_sql_practice.sql) |
-| **Day 8** | Hard Category & Review | - | ⏳ Pending | *Coming Soon* |
+| Day 8 | Hard Category & Review | 7 | 🎯 Done | [View Solutions](./Day08_Hard_Questions.sql) |
